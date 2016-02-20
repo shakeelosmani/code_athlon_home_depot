@@ -1,0 +1,22 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilecontainer */
+.ui-content.PRO_Connect_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* mobilelist_32 */
+.ui-page .PRO_Connect_mobilelist_32 {
+	margin: 4px 0px 0px 0px;
+}
+/* mobilelistitem_33 */
+/* mobilelistitembutton_34 */
+.PRO_Connect_mobilelistitembutton_34 {
+
+}
+/* mobilefooter */
+.PRO_Connect_mobilefooter {
+	min-height:38px;
+}

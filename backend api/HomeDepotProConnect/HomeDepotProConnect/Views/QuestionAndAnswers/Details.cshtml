@@ -1,0 +1,66 @@
+﻿@model HomeDepotProConnect.Models.QuestionAndAnswers
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>QuestionAndAnswers</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AreaOfExpertise.AreaOfExpertiseName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AreaOfExpertise.AreaOfExpertiseName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pros.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pros.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Question)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Question)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Answer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Answer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserRating)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserRating)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.QuestionAndAnswersId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

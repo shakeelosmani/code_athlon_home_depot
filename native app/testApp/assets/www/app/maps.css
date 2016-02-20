@@ -1,0 +1,24 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilecontainer */
+.ui-content.maps_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* googlemap_2 */
+.maps_googlemap_2 {
+	width: 320px; height: 200px;
+	margin: 4px 0px 4px 0px;
+}
+/* marker_3 */
+.maps_marker_3 {
+	text-shadow:none;
+	color:black;
+	font-family:Arial;
+}
+/* mobilefooter */
+.maps_mobilefooter {
+	min-height:38px;
+}

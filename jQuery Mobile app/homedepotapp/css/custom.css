@@ -1,0 +1,16 @@
+/* 
+    Created on : Feb 20, 2016, 8:07:34 AM
+    Author     : Crypticons
+*/
+
+.center-text{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.last{
+    width: 40%;
+    height: 20%;
+    background-color: yellow;
+}
+

@@ -1,0 +1,44 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilecontainer */
+.ui-content.PRO_Notifications_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* mobilecollapsibleset_27 */
+.PRO_Notifications_mobilecollapsibleset_27 {
+	margin: 8px 5px 8px 5px;
+}
+/* mobilecollapsblock_28 */
+.PRO_Notifications_mobilecollapsblock_28 {
+
+}
+.PRO_Notifications_mobilecollapsblock_28 .ui-collapsible-content {
+	padding: 10px 15px 10px 15px;
+}
+/* mobilefooter */
+.PRO_Notifications_mobilefooter {
+	min-height:38px;
+}
+/* CustomComponent1_9 */
+.PRO_Notifications_CustomComponent1_9 {
+	margin: 0px 0px 0px 0px;
+}
+/* CustomComponent1_9_mobilenavbar_36 */
+.PRO_Notifications_CustomComponent1_9_mobilenavbar_36 {
+
+}
+.PRO_Notifications_CustomComponent1_9_mobilenavbar_36 .ui-grid-a .ui-block-a {
+	clear:none;
+}
+.ui-footer .PRO_Notifications_CustomComponent1_9_mobilenavbar_36 ul li:last-child a {
+	margin-right: 1px !important;
+}
+.ui-header .PRO_Notifications_CustomComponent1_9_mobilenavbar_36 ul li:last-child a {
+	margin-right: -1px !important;
+}
+.PRO_Notifications_CustomComponent1_9_mobilenavbar_36 ul.ui-grid-duo li:nth-child(even) a {
+	margin-right: 1px !important;
+}

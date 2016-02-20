@@ -1,0 +1,123 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilecontainer */
+.ui-content.Register_mobilecontainer {
+	padding: 100px 0px 0px 0px;
+}
+/* imageregister */
+.Register_imageregister {
+	margin: 0px 0px 0px 0px;
+	width: 100%; height: 30%;
+	display: block;
+}
+/* mobilelabel_2 */
+.Register_mobilelabel_2 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 10px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobiletextinput_41 */
+.Register_mobiletextinput_41 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobiletextinput_42 */
+.Register_mobiletextinput_42 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobiletextinput_43 */
+.Register_mobiletextinput_43 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilegrid_34 */
+.Register_mobilegrid_34 {
+	height: auto;
+	width:100%;
+	margin: 4px 0px 4px 0px;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+.Register_mobilegrid_34_wrapper {
+
+}
+.Register_mobilegrid_34 > tr > td {
+	vertical-align: top;
+}
+.Register_mobilegrid_34_row_0, .Register_mobilegrid_34_row_0 > td {
+	height: 20px
+}
+/* mobilegridcell_35 */
+.Register_mobilegridcell_35 {
+	height:20px !important;
+	width:223px;
+	padding: 2px 2px 2px 2px;
+}
+.Register_mobilegridcell_35 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_40 */
+.Register_mobilelabel_40 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_36 */
+.Register_mobilegridcell_36 {
+	height:20px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.Register_mobilegridcell_36 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobiletoggle_39 */
+.Register_mobiletoggle_39 {
+	margin: 0px 0px 0px 0px;
+}
+/* mobilebutton_25 */
+#Register_mobilebutton_25 {
+
+}
+.ui-btn.Register_mobilebutton_25 {
+	margin: 2px 100px 4px 100px;
+}
+/* mobilefooter */
+.Register_mobilefooter {
+	min-height:38px;
+}
+/* panel_44 */
+.Register_panel_44 .ui-panel-inner {
+	padding: 15px 15px 15px 15px;
+}
+.Register_panel_44:focus {
+	outline: 0;
+}
+/* mobilelabel_49 */
+.Register_mobilelabel_49 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilecheckboxgroup_45 */
+.Register_mobilecheckboxgroup_45 {
+	margin: 4px 0px 4px 0px;
+}
+/* mobilecheckbox_46 */
+.Register_mobilecheckbox_46 {
+	-webkit-border-radius: inherit;
+	border-radius: inherit;
+}
+/* mobilebutton_50 */
+#Register_mobilebutton_50 {
+
+}
+.ui-btn.Register_mobilebutton_50 {
+	margin: 4px 50px 4px 50px;
+}

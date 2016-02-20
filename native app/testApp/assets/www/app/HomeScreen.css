@@ -1,0 +1,73 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilecontainer */
+.ui-content.HomeScreen_mobilecontainer {
+	padding: 150px 45px 45px 45px;
+}
+/* mobileimage_10 */
+.HomeScreen_mobileimage_10 {
+	margin: 0px 0px 0px 0px;
+	width: 80%; height: 20%;
+	display: block;
+}
+/* mobilelist_2 */
+.ui-page .HomeScreen_mobilelist_2 {
+	margin: 4px 0px 0px 0px;
+}
+/* mobilelistitem_3 */
+.ui-mobile-viewport ul[data-role="listview"] li.HomeScreen_mobilelistitem_3 {
+	padding: 0;
+	margin: 0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.HomeScreen_mobilelistitem_3 .ui-li-static-container {
+	padding: 0px 0px 4px 0px;
+	padding-right: 41px;
+	padding-left: 0px;
+	min-height: 1em;
+	border-width:0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.HomeScreen_mobilelistitem_3.ui-icon-none .ui-li-static-container {
+	padding-right: 0px; /* consider nothing */
+}
+/* mobileimage_11 */
+.HomeScreen_mobileimage_11 {
+	margin: 4px 0px 4px 3px;
+	width: 41px; height: 41px;
+	display: block;
+}
+/* mobilelistitembutton_4 */
+.HomeScreen_mobilelistitembutton_4 {
+
+}
+/* mobilelistitem_5 */
+.ui-mobile-viewport ul[data-role="listview"] li.HomeScreen_mobilelistitem_5 {
+	padding: 0;
+	margin: 0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.HomeScreen_mobilelistitem_5 .ui-li-static-container {
+	padding: 0px 0px 4px 0px;
+	padding-right: 41px;
+	padding-left: 0px;
+	min-height: 1em;
+	border-width:0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.HomeScreen_mobilelistitem_5.ui-icon-none .ui-li-static-container {
+	padding-right: 0px; /* consider nothing */
+}
+/* mobilelistitembutton_6 */
+.HomeScreen_mobilelistitembutton_6 {
+
+}
+/* mobileimage_16 */
+.HomeScreen_mobileimage_16 {
+	margin: 4px 0px 4px 3px;
+	width: 116px; height: 43px;
+	display: block;
+}
+/* mobilefooter */
+.HomeScreen_mobilefooter {
+	min-height:38px;
+}

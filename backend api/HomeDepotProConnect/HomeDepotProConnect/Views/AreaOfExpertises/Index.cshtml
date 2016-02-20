@@ -1,0 +1,39 @@
+﻿@model IEnumerable<HomeDepotProConnect.Models.AreaOfExpertise>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AreaOfExpertiseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AreaOfExpertiseDescription)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AreaOfExpertiseName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AreaOfExpertiseDescription)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.AreaOfExpertiseId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.AreaOfExpertiseId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.AreaOfExpertiseId })
+        </td>
+    </tr>
+}
+
+</table>

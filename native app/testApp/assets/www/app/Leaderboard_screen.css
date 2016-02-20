@@ -1,0 +1,65 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilecontainer */
+.ui-content.Leaderboard_screen_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* mobilefooter */
+.Leaderboard_screen_mobilefooter {
+	min-height:38px;
+}
+/* CustomComponent1_3 */
+.Leaderboard_screen_CustomComponent1_3 {
+	margin: 0px 0px 0px 0px;
+}
+/* CustomComponent1_3_mobilenavbar_36 */
+.Leaderboard_screen_CustomComponent1_3_mobilenavbar_36 {
+
+}
+.Leaderboard_screen_CustomComponent1_3_mobilenavbar_36 .ui-grid-a .ui-block-a {
+	clear:none;
+}
+.ui-footer .Leaderboard_screen_CustomComponent1_3_mobilenavbar_36 ul li:last-child a {
+	margin-right: 1px !important;
+}
+.ui-header .Leaderboard_screen_CustomComponent1_3_mobilenavbar_36 ul li:last-child a {
+	margin-right: -1px !important;
+}
+.Leaderboard_screen_CustomComponent1_3_mobilenavbar_36 ul.ui-grid-duo li:nth-child(even) a {
+	margin-right: 1px !important;
+}
+/* panel_19 */
+.Leaderboard_screen_panel_19 .ui-panel-inner {
+	padding: 15px 15px 15px 15px;
+}
+.Leaderboard_screen_panel_19:focus {
+	outline: 0;
+}
+/* mobilecollapsibleset_20 */
+.Leaderboard_screen_mobilecollapsibleset_20 {
+	margin: 8px 5px 8px 5px;
+}
+/* mobilecollapsblock_21 */
+.Leaderboard_screen_mobilecollapsblock_21 {
+
+}
+.Leaderboard_screen_mobilecollapsblock_21 .ui-collapsible-content {
+	padding: 10px 15px 10px 15px;
+}
+/* mobilecollapsblock_24 */
+.Leaderboard_screen_mobilecollapsblock_24 {
+
+}
+.Leaderboard_screen_mobilecollapsblock_24 .ui-collapsible-content {
+	padding: 10px 15px 10px 15px;
+}
+/* mobilecollapsblock_27 */
+.Leaderboard_screen_mobilecollapsblock_27 {
+
+}
+.Leaderboard_screen_mobilecollapsblock_27 .ui-collapsible-content {
+	padding: 10px 15px 10px 15px;
+}

@@ -1,0 +1,1 @@
+var GPSInterval = 180;

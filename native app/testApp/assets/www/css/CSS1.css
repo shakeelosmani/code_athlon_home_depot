@@ -1,0 +1,34 @@
+.ui-corner-all {
+    border-radius: .1em;
+}
+
+.mobheader{
+ 	display:none;
+}
+
+.imagetop{
+ 	position:absolute;
+    top:0;
+    width:100%;
+    padding-left:0 !important;
+    left:9%;
+}
+
+.HD_Customer{
+ 	z-index:-1;
+    width:100%;
+    padding-left:0;
+    position:relative;
+   
+}
+
+.home_depot_lable{
+ 	position: fixed;
+    left: 29%;
+    top: 36%;
+}
+.imageregister{
+    position:absolute;
+    top:0;
+    width:100%;
+}
